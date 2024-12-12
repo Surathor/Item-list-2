@@ -5298,6 +5298,456 @@
 		"category": "Furniture",
 		"defname": "AM_StoneBedrollGuest"
 	},
+	{
+		"abr": "barleyporridge",
+		"price": 13,
+		"category": "Meals",
+		"defname": "Mousekin_MealBarleyPorridge"
+	},
+	{
+		"abr": "beeswax",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "Mousekin_Beeswax"
+	},
+	{
+		"abr": "breadbowl",
+		"price": 42,
+		"category": "Meals",
+		"defname": "Mousekin_MealBreadBowl"
+	},
+	{
+		"abr": "chonkonutbrew",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkChonkoNutBrew"
+	},
+	{
+		"abr": "chonkonuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Mousekin_RawNutChonko"
+	},
+	{
+		"abr": "clockworkmechanism",
+		"price": 23,
+		"category": "Manufactured",
+		"defname": "Mousekin_ClockworkComponent"
+	},
+	{
+		"abr": "clothmousekinear",
+		"price": 20,
+		"category": "Prosthetic",
+		"defname": "Mousekin_ProstheticClothEar"
+	},
+	{
+		"abr": "clothmousekintail",
+		"price": 20,
+		"category": "Prosthetic",
+		"defname": "Mousekin_ProstheticClothTail"
+	},
+	{
+		"abr": "cloverburycheese",
+		"price": 17,
+		"category": "Animal products",
+		"defname": "Mousekin_FoodCheese"
+	},
+	{
+		"abr": "countrybread",
+		"price": 8,
+		"category": "Meals",
+		"defname": "Mousekin_FoodCountryBread"
+	},
+	{
+		"abr": "eggsontoast",
+		"price": 25,
+		"category": "Meals",
+		"defname": "Mousekin_MealEggsOnToast"
+	},
+	{
+		"abr": "flour",
+		"price": 3,
+		"category": "Raw food",
+		"defname": "Mousekin_Flour"
+	},
+	{
+		"abr": "giantcavy",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Mousekin_AnimalGiantCavy"
+	},
+	{
+		"abr": "giantcavyfur",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "Mousekin_LeatherGiantCavy"
+	},
+	{
+		"abr": "giantcavymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mousekin_AnimalGiantCavy"
+	},
+	{
+		"abr": "giantcavypellet",
+		"price": 1,
+		"category": "Foods",
+		"defname": "Mousekin_PoopGiantCavy"
+	},
+	{
+		"abr": "giantcavywool",
+		"price": 6,
+		"category": "Wools",
+		"defname": "Mousekin_WoolGiantCavy"
+	},
+	{
+		"abr": "mouse-earbarley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Mousekin_RawBarley"
+	},
+	{
+		"abr": "mousekin",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Mousekin"
+	},
+	{
+		"abr": "mousekinalchemybench",
+		"price": 189,
+		"category": "Production",
+		"defname": "Mousekin_WorkbenchAlchemy"
+	},
+	{
+		"abr": "mousekinautomaticcrossbow",
+		"price": 316,
+		"category": "Ranged weapons",
+		"defname": "Mousekin_RangedWeapon_CrossbowAuto"
+	},
+	{
+		"abr": "mousekinaxe",
+		"price": 102,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "mousekinbeehive",
+		"price": 64,
+		"category": "Production",
+		"defname": "Mousekin_Beehive"
+	},
+	{
+		"abr": "mousekinblunderbuss",
+		"price": 280,
+		"category": "Ranged weapons",
+		"defname": "Mousekin_RangedWeapon_MusketShort"
+	},
+	{
+		"abr": "mousekinbrewery",
+		"price": 219,
+		"category": "Production",
+		"defname": "Mousekin_WorkbenchBrewery"
+	},
+	{
+		"abr": "mousekinbutchertable",
+		"price": 181,
+		"category": "Production",
+		"defname": "Mousekin_WorkbenchButcher"
+	},
+	{
+		"abr": "mousekincandle",
+		"price": 20,
+		"category": "Manufactured",
+		"defname": "Mousekin_Candle"
+	},
+	{
+		"abr": "mousekincast-ironstove",
+		"price": 202,
+		"category": "Production",
+		"defname": "Mousekin_CastIronStove"
+	},
+	{
+		"abr": "mousekincheesepress",
+		"price": 69,
+		"category": "Production",
+		"defname": "Mousekin_CheesePress"
+	},
+	{
+		"abr": "mousekincleaver",
+		"price": 86,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "mousekincloak",
+		"price": 442,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelCloak"
+	},
+	{
+		"abr": "mousekincraftingbench",
+		"price": 189,
+		"category": "Production",
+		"defname": "Mousekin_WorkbenchCrafting"
+	},
+	{
+		"abr": "mousekincraftsman’soutfit",
+		"price": 281,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelCraftsmanOutfit"
+	},
+	{
+		"abr": "mousekincuirass",
+		"price": 253,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ArmorCuirass"
+	},
+	{
+		"abr": "mousekindagger",
+		"price": 73,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Dagger"
+	},
+	{
+		"abr": "mousekinear",
+		"price": 667,
+		"category": "Natural",
+		"defname": "Mousekin_BodyPartEar"
+	},
+	{
+		"abr": "mousekinfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "Mousekin_FermentingBarrel"
+	},
+	{
+		"abr": "mousekinfur",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Mousekin_Leather_Mousekin"
+	},
+	{
+		"abr": "mousekingambeson",
+		"price": 450,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelGambeson"
+	},
+	{
+		"abr": "mousekinguardener’sgown",
+		"price": 350,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelGuardenerGown"
+	},
+	{
+		"abr": "mousekinguardener’srobe",
+		"price": 442,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelGuardenerRobe"
+	},
+	{
+		"abr": "mousekinguardener’ssword",
+		"price": 171,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_SwordGuardener"
+	},
+	{
+		"abr": "mousekinguardener’strainingsword",
+		"price": 140,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_SwordGuardenerTraining"
+	},
+	{
+		"abr": "mousekinhammer",
+		"price": 91,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_HammerMetal"
+	},
+	{
+		"abr": "mousekinheadscarf",
+		"price": 54,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HatHeadscarf"
+	},
+	{
+		"abr": "mousekinhoe",
+		"price": 136,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Hoe"
+	},
+	{
+		"abr": "mousekinhoney",
+		"price": 7,
+		"category": "Animal products",
+		"defname": "Mousekin_RawHoney"
+	},
+	{
+		"abr": "mousekinhunter’scrossbow",
+		"price": 195,
+		"category": "Ranged weapons",
+		"defname": "Mousekin_RangedWeapon_Crossbow"
+	},
+	{
+		"abr": "mousekinkettlehat",
+		"price": 157,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HelmetKettle"
+	},
+	{
+		"abr": "mousekinknightcommander’scape",
+		"price": 417,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelKnightCommanderCape"
+	},
+	{
+		"abr": "mousekinknightcommander’shelmet",
+		"price": 253,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HelmetKnightCommander"
+	},
+	{
+		"abr": "mousekinknight’sgreatsword",
+		"price": 251,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_SwordKnightLarge"
+	},
+	{
+		"abr": "mousekinknight’ssword",
+		"price": 211,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_SwordKnight"
+	},
+	{
+		"abr": "mousekinknight'shelmet",
+		"price": 253,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HelmetKnight"
+	},
+	{
+		"abr": "mousekinlager",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkLager"
+	},
+	{
+		"abr": "mousekinlagerwort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Mousekin_WortLager"
+	},
+	{
+		"abr": "mousekinleatherbackpack",
+		"price": 167,
+		"category": "Mousekin accessories",
+		"defname": "Mousekin_BackpackLeather"
+	},
+	{
+		"abr": "mousekinmallet",
+		"price": 62,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_HammerWood"
+	},
+	{
+		"abr": "mousekinmead(awful)",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadAwful"
+	},
+	{
+		"abr": "mousekinmead(excellent)",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadExcellent"
+	},
+	{
+		"abr": "mousekinmead(good)",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadGood"
+	},
+	{
+		"abr": "mousekinmead(legendary)",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadLegendary"
+	},
+	{
+		"abr": "mousekinmead(masterwork)",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadMasterwork"
+	},
+	{
+		"abr": "mousekinmead(normal)",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadNormal"
+	},
+	{
+		"abr": "mousekinmead(poor)",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Mousekin_DrinkMeadPoor"
+	},
+	{
+		"abr": "mousekinmeadmust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Mousekin_WortMead"
+	},
+	{
+		"abr": "mousekinmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Mousekin"
+	},
+	{
+		"abr": "mousekinmorionhelmet",
+		"price": 176,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HelmetMorion"
+	},
+	{
+		"abr": "mousekinmusket",
+		"price": 342,
+		"category": "Ranged weapons",
+		"defname": "Mousekin_RangedWeapon_MusketLong"
+	},
+	{
+		"abr": "mousekinnun’shabit",
+		"price": 271,
+		"category": "Mousekin apparel",
+		"defname": "Mousekin_ApparelNunHabit"
+	},
+	{
+		"abr": "mousekinnun’sveil",
+		"price": 89,
+		"category": "Mousekin headgear",
+		"defname": "Mousekin_HatNunVeil"
+	},
+	{
+		"abr": "mousekinpickaxe",
+		"price": 159,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "mousekinpike",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_PikeRegular"
+	},
+	{
+		"abr": "mousekinpince-nezglasses",
+		"price": 24,
+		"category": "Mousekin accessories",
+		"defname": "Mousekin_GlassesSmall"
+	},
+	{
+		"abr": "mousekinpitchfork",
+		"price": 186,
+		"category": "Melee weapons",
+		"defname": "Mousekin_MeleeWeapon_Pitchfork"
+	}
 	],
-	"total": 950
+	"total": 1025
 }
