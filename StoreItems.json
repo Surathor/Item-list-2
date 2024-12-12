@@ -5125,12 +5125,6 @@
 		"defname": "AM_Megalith"
 	},
 	{
-		"abr": "cheapdownbedroom(2)",
-		"price": 1117,
-		"category": "Furniture",
-		"defname": "SF_CheapBasementBedroomTwo"
-	},
-	{
 		"abr": "guestbed",
 		"price": 155,
 		"category": "Furniture",
@@ -5153,12 +5147,6 @@
 		"price": 137,
 		"category": "Furniture",
 		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcheapdownbedroom(2)",
-		"price": 1117,
-		"category": "Furniture",
-		"defname": "SF_CheapBasementBedroomTwoGuest"
 	},
 	{
 		"abr": "guestclassydoublebed",
@@ -5310,42 +5298,6 @@
 		"category": "Furniture",
 		"defname": "AM_StoneBedrollGuest"
 	},
-	{
-		"abr": "guestupcheapbedroom(2)",
-		"price": 1450,
-		"category": "Furniture",
-		"defname": "SF_BadUpstairsBedroomTwoGuest"
-	},
-	{
-		"abr": "guestupcheapbedroom(4)",
-		"price": 2317,
-		"category": "Furniture",
-		"defname": "SF_BadUpstairsBedroomFourGuest"
-	},
-	{
-		"abr": "guestupcheapbedrooms(6)",
-		"price": 2817,
-		"category": "Furniture",
-		"defname": "SF_BadUpstairsBedroomSixGuest"
-	},
-	{
-		"abr": "guestupdecentbedroom(2)",
-		"price": 2242,
-		"category": "Furniture",
-		"defname": "SF_DecentUpstairsBedroomTwoGuest"
-	},
-	{
-		"abr": "guestupdecentbedroom(4)",
-		"price": 3592,
-		"category": "Furniture",
-		"defname": "SF_DecentUpstairsBedroomFourGuest"
-	},
-	{
-		"abr": "guestupfancybedroom(2)",
-		"price": 8167,
-		"category": "Furniture",
-		"defname": "SF_GoodUpstairsBedroomTwoGuest"
-	},
 	],
-	"total": 1025
+	"total": 975
 }
